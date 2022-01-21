@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             children: [
               Container(
-                margin: EdgeInsets.fromLTRB(0, 19, 269, 13),
+                margin: EdgeInsets.fromLTRB(0, 19, 245, 13),
                 child: Text(
                   'Berat Badan',
                   style: GoogleFonts.poppins(
@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ],
               ),
               Container(
-                margin: EdgeInsets.fromLTRB(0, 13, 269, 13),
+                margin: EdgeInsets.fromLTRB(0, 13, 245, 13),
                 child: Text(
                   'Tinggi Badan',
                   style: GoogleFonts.poppins(
